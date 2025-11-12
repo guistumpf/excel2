@@ -1,0 +1,11 @@
+.principal{
+    display: flex;
+    gap: 15px;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    flex: 1;
+}
